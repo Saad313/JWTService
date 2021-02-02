@@ -1,0 +1,3 @@
+export const NEW_POSTS = 'NEW_POSTS';
+export const ALREADY_EXISTS = 'EXISTS';
+export const REGISTER_INITIAL_STATE = 'REGISTER_INITIAL_STATE';
