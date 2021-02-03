@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saad\\source\\repos\\Assessment\\Assessment\\Assessment.csproj": {}
+    "C:\\Users\\Saad\\Desktop\\OneByte\\JWTService\\Backend\\Assessment\\Assessment\\Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saad\\source\\repos\\Assessment\\Assessment\\Assessment.csproj": {
+    "C:\\Users\\Saad\\Desktop\\OneByte\\JWTService\\Backend\\Assessment\\Assessment\\Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saad\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+        "projectUniqueName": "C:\\Users\\Saad\\Desktop\\OneByte\\JWTService\\Backend\\Assessment\\Assessment\\Assessment.csproj",
         "projectName": "Assessment",
-        "projectPath": "C:\\Users\\Saad\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+        "projectPath": "C:\\Users\\Saad\\Desktop\\OneByte\\JWTService\\Backend\\Assessment\\Assessment\\Assessment.csproj",
         "packagesPath": "C:\\Users\\Saad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saad\\source\\repos\\Assessment\\Assessment\\obj\\",
+        "outputPath": "C:\\Users\\Saad\\Desktop\\OneByte\\JWTService\\Backend\\Assessment\\Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
